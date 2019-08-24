@@ -1,0 +1,10 @@
+Flask
+flask_restful
+pymongo
+bcrypt
+numpy
+tensorflow
+keras
+opencv-python
+requests
+Pillow==2.2.1
